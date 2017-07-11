@@ -1,0 +1,52 @@
+All data:
+mean		 3.483453
+variance	 37.89137
+std dev		 6.155596
+  q1  q2  q3  q4
+0 0.4 1.4 3.825 61.3
+Num outliers = 22
+Num extreme outliers = 29
+
+Cermaq:
+mean		 1.895556
+variance	 7.617745
+std dev		 2.760026
+  q1  q2  q3  q4
+0 0.3 1 2.225 23.3
+Num outliers = 15
+Num extreme outliers = 4
+after removing largest value:
+mean		 1.775978
+variance	 5.072285
+std dev		 2.252173
+
+Marine Harvest:
+mean		 4.88694
+variance	 58.72541
+std dev		 7.663251
+  q1  q2  q3  q4
+0 0.9 2.4 5.8 61.3
+Num outliers = 16
+Num extreme outliers = 9
+after removing largest value:
+mean		 4.675655
+variance	 46.93734
+std dev		 6.851083
+
+Grieg:
+mean		 2.647222
+variance	 27.37541
+std dev		 5.232152
+  q1  q2  q3  q4
+0 0.2 0.8 2.325 25.7
+Num outliers = 8
+Num extreme outliers = 6
+after removing largest value:
+mean		 2.431776
+variance	 22.57332
+std dev		 4.751139
+
+All data, recalculated after removing largest value from each licensee:
+mean		 3.302893
+variance	 30.40336
+std dev		 5.513924
