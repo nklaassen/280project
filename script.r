@@ -132,3 +132,5 @@ data = rbind(cermaq, grieg, marine)
 cat("\nmean\t\t", mean(data$total))
 cat("\nvariance\t", var(data$total))
 cat("\nstd dev\t\t", sd(data$total))
+
+sink()
